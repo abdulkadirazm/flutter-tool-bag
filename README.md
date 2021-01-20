@@ -2,6 +2,14 @@
 
 A new Flutter project. Developed for Istanbul University - Cerrahpasa Mobile Programming lesson's second homework.
 
+I created my own toolbox that does not contain advertising and contains the functionality of many small applications. It contains:
+* A local Sqflite and Remote (service that I created.) databases.
+* Phone Book  display / editing / delete
+* Organizing and storing Shopping List (like Google Keep)
+* Application Theme can be changed via application settings
+* Ability to transfer content (Text, Phone number etc.) to E-Mail and Messaging applications
+
+
 | meet screen |   drawer    | dark drawer |
 |-------------|-------------|-------------|
 | <img src="https://github.com/abdulkadirazm/flutter-tool-bag/blob/main/images/Screenshot_1.jpg?raw=true" width="250"> | <img src="https://github.com/abdulkadirazm/flutter-tool-bag/blob/main/images/Screenshot_2.jpg?raw=true" width="250"> | <img src="https://github.com/abdulkadirazm/flutter-tool-bag/blob/main/images/Screenshot_3.jpg?raw=true" width="250"> |
